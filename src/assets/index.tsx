@@ -1,2 +1,7 @@
 export { default as ShoppingIcon } from './shopping.svg'
 export { default as ProfileIcon } from './profile.svg'
+export { default as Calvin } from './calvin.svg'
+export { default as Prada } from './prada-logo-1 1.svg'
+export { default as Versace } from './Versace.svg'
+export { default as Zara } from './zara-logo-1 1.svg'
+export { default as Gucci } from './gucci-logo-1 1.svg'
